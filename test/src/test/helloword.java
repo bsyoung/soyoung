@@ -15,7 +15,9 @@ public class helloword {
 		System.out.println("hello~~~~end4");
 		System.out.println("hello~~~~end5");
 		System.out.println("hello~~~~end");
+  		System.out.println("hello~~~~end5");
 		//System.out.println("hello~~~~end");
+		System.out.println("허브에서추가");
 	}
 
 }
