@@ -11,6 +11,7 @@ public class helloword {
 
 		System.out.println("hello~~~~end2");
 		System.out.println("hello~~~~end3");
+		System.out.println("hello~~~~end4");
 		//System.out.println("hello~~~~end");
 		//System.out.println("hello~~~~end");
 	}
