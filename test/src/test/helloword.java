@@ -8,8 +8,8 @@ public class helloword {
 		System.out.println("hello~~~~mid");
 		System.out.println("hello~~~~end");
 		System.out.println("hello~~~~end");
-		System.out.println("hello~~~~end");
-		System.out.println("hello~~~~end");
+		//System.out.println("hello~~~~end");
+		//System.out.println("hello~~~~end");
 	}
 
 }
